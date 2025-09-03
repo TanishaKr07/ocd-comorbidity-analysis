@@ -1,0 +1,14 @@
+# Core libraries
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+plotly==5.24.1
+
+# Statistical graphics
+statsmodels==0.14.4
+
+# Machine learning
+scikit-learn==1.5.1
