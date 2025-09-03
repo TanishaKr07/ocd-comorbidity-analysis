@@ -2,7 +2,7 @@
 
 **Author:** Tanisha Kumar<br> 
 **Date:** September 2025<br>
-**Language/Tools:** Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+**Language/Tools:** Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn  
 
 ---
 
