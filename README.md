@@ -1,7 +1,7 @@
 # 🧠 OCD Comorbidity Analysis  
 
-**Author:** Tanisha Kumar 
-**Date:** September 2025
+**Author:** Tanisha Kumar<br> 
+**Date:** September 2025<br>
 **Language/Tools:** Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 
 ---
@@ -25,8 +25,8 @@ This project uses a synthetic dataset of 1,500 simulated OCD patients to explore
 
 ## 📊 Dataset  
 
-- **Source:** Kaggle (synthetic dataset)  
-- **Size:** 1,500 rows × 17 columns  
+- **Source:** Kaggle (synthetic dataset) [Link to dataset](https://www.kaggle.com/datasets/ohinhaque/ocd-patient-dataset-demographics-and-clinical-data)
+- **Size:** 1500 rows × 17 columns  
 
 **Relevant Features:**  
 - **Age:** Patient age (18–75)  
